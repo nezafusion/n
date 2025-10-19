@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://linghub.netlify.app/sitemap.xml
